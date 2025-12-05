@@ -1,5 +1,5 @@
-Linux congiguration project
+Linux configuration project
 ------------------------
 file1: hosts
-files: nm-networkmager.conf
+files: ens160.nmconnection
 --------------
