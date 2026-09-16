@@ -1,4 +1,4 @@
-#LIJ公司Linux組態檔維護專案
+# LIJ公司Linux組態檔維護專案
 
 1. hosts
 2. ens160-nmconnection
